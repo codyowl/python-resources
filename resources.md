@@ -20,7 +20,8 @@ Rest API:
 
 
 
-
+DataScience:
+	Cheat sheet: https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.7W51iFs
 
 
 
