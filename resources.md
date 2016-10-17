@@ -18,7 +18,8 @@ Rest API:
 		authenticaton:
 			http://www.tivix.com/projects/django-rest-auth/
 
-
+		apps with drf:
+			http://nanvel.name/2014/02/drf-angularjs-example
 
 DataScience:
 	Cheat sheet: https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.7W51iFs
