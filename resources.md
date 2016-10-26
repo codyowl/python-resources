@@ -12,6 +12,9 @@ Django :
 		https://coderwall.com/p/bz0sng/simple-django-image-upload-to-model-imagefield
 		http://www.bogotobogo.com/python/Django/Python_Django_Image_Files_Uploading_Example.php
 
+	Registration :
+                http://musings.tinbrain.net/blog/2014/sep/21/registration-django-easy-way/(with email confirmation)
+
 
 Rest API:
 	Django rest framework:
