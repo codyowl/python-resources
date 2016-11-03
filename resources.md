@@ -36,4 +36,5 @@ Machine Learning:
         Introduction to machine learning in python with scikit-learn:
 	http://www.dataschool.io/machine-learning-with-scikit-learn/ 
 
-
+Data structure and algorithm:
+	Linked list : http://greenteapress.com/thinkpython/html/chap17.html
