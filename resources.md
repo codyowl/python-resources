@@ -41,3 +41,6 @@ Machine Learning:
 
 Data structure and algorithm:
 	Linked list : http://greenteapress.com/thinkpython/html/chap17.html
+
+Web application security with python:
+	http://www.pythonsecurity.org/
