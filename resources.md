@@ -44,3 +44,7 @@ Data structure and algorithm:
 
 Web application security with python:
 	http://www.pythonsecurity.org/
+
+Academics:
+	python for physics:
+		https://www.wired.com/2016/07/use-python-teach-high-school-physics/
