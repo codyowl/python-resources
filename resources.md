@@ -48,3 +48,6 @@ Web application security with python:
 Academics:
 	python for physics:
 		https://www.wired.com/2016/07/use-python-teach-high-school-physics/
+
+Game Programming:
+	pygame basics: https://inventwithpython.com/pygame/chapter2.html
