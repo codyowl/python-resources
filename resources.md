@@ -44,6 +44,7 @@ Data structure and algorithm:
 
 Web application security with python:
 	http://www.pythonsecurity.org/
+	[Writing Basic security tools using python](http://www.binary-zone.com/course/HTID/Python4Infosec.pdf)
 
 Academics:
 	python for physics:
