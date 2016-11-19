@@ -17,6 +17,9 @@ Django :
 
 
 Rest API:
+	Building rest api with python:
+		https://realpython.com/blog/python/api-integration-in-python/
+
 	Django rest framework:
 		authenticaton:
 			http://www.tivix.com/projects/django-rest-auth/
