@@ -27,6 +27,10 @@ Rest API:
 		apps with drf:
 			http://nanvel.name/2014/02/drf-angularjs-example
 
+Regular Expression:
+	https://regexone.com/references/python
+
+
 DataScience:
 		Cheat sheet: 
 			https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.7W51iFs
