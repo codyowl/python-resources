@@ -59,3 +59,6 @@ Academics:
 
 Game Programming:
 	pygame basics: https://inventwithpython.com/pygame/chapter2.html
+
+Cryptography:
+	cryptography module : http://docs.python-guide.org/en/latest/scenarios/crypto/
