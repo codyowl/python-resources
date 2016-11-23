@@ -59,7 +59,7 @@
   - [cryptography module](http://docs.python-guide.org/en/latest/scenarios/crypto/)
 
 # NLP:
-  - [Getting started](http://desilinguist.org/pdf/crossroads.pdf)
+  - [Getting started on NLP with python](http://desilinguist.org/pdf/crossroads.pdf)
 
 # Deployment:
 ## Heroku:
