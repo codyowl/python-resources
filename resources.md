@@ -37,6 +37,10 @@
   - [Introduction to machine learning in python with scikit-learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
   - [First machine learning project with python](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 
+#Artificial Intelligence:
+  - [Creating a simple python AI](http://www.instructables.com/id/Creating-A-Simple-Python-AI/)
+
+
 # Data structure and algorithm:
   - [Linked list](http://greenteapress.com/thinkpython/html/chap17.html)
 
@@ -62,4 +66,5 @@
 
 ## uWSGI and Nginx:
   - [Deploy Django Applications Using uWSGI and Nginx on Ubuntu 14.04](https://www.linode.com/docs/websites/nginx/deploy-django-applications-using-uwsgi-and-nginx-on-ubuntu-14-04)
+
 
