@@ -55,3 +55,7 @@
 
 # NLP:
   - [Getting started](http://desilinguist.org/pdf/crossroads.pdf)
+
+# Deployment:
+## Heroku:
+  - [How to set django app on heroku](http://www.marinamele.com/2013/12/how-to-set-django-app-on-heroku-part-i.html)  
