@@ -37,7 +37,7 @@
   - [Introduction to machine learning in python with scikit-learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
   - [First machine learning project with python](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 
-#Artificial Intelligence:
+# Artificial Intelligence:
   - [Creating a simple python AI](http://www.instructables.com/id/Creating-A-Simple-Python-AI/)
 
 
@@ -50,6 +50,7 @@
 
 # Academics:
   - [python for physics](https://www.wired.com/2016/07/use-python-teach-high-school-physics/)
+  - [Doing math in python](http://www.cs.utexas.edu/users/mitra/csSpring2016/cs313/lectures/math.html)
 
 # Game Programming:
   - [pygame basics](https://inventwithpython.com/pygame/chapter2.html)
