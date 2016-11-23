@@ -59,3 +59,7 @@
 # Deployment:
 ## Heroku:
   - [How to set django app on heroku](http://www.marinamele.com/2013/12/how-to-set-django-app-on-heroku-part-i.html)  
+
+## uWSGI and Nginx:
+  - [Deploy Django Applications Using uWSGI and Nginx on Ubuntu 14.04](https://www.linode.com/docs/websites/nginx/deploy-django-applications-using-uwsgi-and-nginx-on-ubuntu-14-04)
+
