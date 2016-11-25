@@ -37,6 +37,9 @@
   - [Introduction to machine learning in python with scikit-learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
   - [First machine learning project with python](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 
+# Neural Network:
+  - [Develop Your First Neural Network in Python With Keras Step-By-Step](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)  
+
 # Artificial Intelligence:
   - [Creating a simple python AI](http://www.instructables.com/id/Creating-A-Simple-Python-AI/)
 
