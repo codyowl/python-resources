@@ -47,6 +47,7 @@
 # Data structure and algorithm:
   - [Linked list](http://greenteapress.com/thinkpython/html/chap17.html)
   - [Basic sorting algorithms](http://danishmujeeb.com/blog/2014/01/basic-sorting-algorithms-implemented-in-python/)
+  - [Linear Regression](http://aimotion.blogspot.in/2011/10/machine-learning-with-python-linear.html)
 
 # Web application security with python:
   - [OWASP Python Security Project](http://www.pythonsecurity.org/)
