@@ -72,4 +72,7 @@
 ## uWSGI and Nginx:
   - [Deploy Django Applications Using uWSGI and Nginx on Ubuntu 14.04](https://www.linode.com/docs/websites/nginx/deploy-django-applications-using-uwsgi-and-nginx-on-ubuntu-14-04)
 
+# Web Crawling:
+## Scrapy:
+  - [Web scraping and crawling with scrapy and mongodb](https://realpython.com/blog/python/web-scraping-and-crawling-with-scrapy-and-mongodb/)
 
