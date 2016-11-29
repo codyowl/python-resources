@@ -22,6 +22,7 @@
 ## Django rest framework:
   - Authenticaton:
     - [tivix](http://www.tivix.com/projects/django-rest-auth/)
+    - [chrisbartos](http://chrisbartos.com/bonus-2-django-drf-plus-authentication/)
 
 # Regular Expression:
   - [regexone](https://regexone.com/references/python)
