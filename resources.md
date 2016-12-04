@@ -1,7 +1,9 @@
 # Python : 
-
 ## online courses: 
   - Basics    : [python-course.eu](http://www.python-course.eu/)
+
+#Modules:
+[Artificial Intelligence(pyBrain)](http://pybrain.org/)
 
 # Django : 
 ## login authentication : 
