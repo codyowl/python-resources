@@ -58,6 +58,7 @@
 
 # Academics:
   - [python for physics](https://www.wired.com/2016/07/use-python-teach-high-school-physics/)
+  - [python for chemistry](http://www.chempython.org/)
   - [Doing math in python](http://www.cs.utexas.edu/users/mitra/csSpring2016/cs313/lectures/math.html)
 
 # Game Programming:
