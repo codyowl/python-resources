@@ -11,6 +11,21 @@
 # Django : 
 ## login authentication : 
   - [Django authentication rightway](http://blog.narenarya.in/right-way-django-authentication.html)
+## progression :
+  - Django Models
+  - Model Instance Methods & Properties
+  - Model-level field validation
+  - How models map to databases and Primary Keys
+  - Django Forms and Formsets
+  - Form validation
+  - Model Form
+  - Function Based Views (FBVs)
+  - Class Based Views (CBVs)
+  - CRUD in Django Views (Create Retrieve Update Delete List)
+  - Django Templates
+  - Template Inheritance
+  - Template shortcuts & Filters
+  - Django translation
 
 ## Image uploader :
   - Image upload samples : 
