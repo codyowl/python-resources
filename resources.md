@@ -2,6 +2,9 @@
 ## online courses: 
   - Basics    : [python-course.eu](http://www.python-course.eu/)
 
+##learning efficiently:
+  - [simplydjango](http://www.simplydjango.com/learn-python-efficiently)
+
 #Modules:
 [Artificial Intelligence(pyBrain)](http://pybrain.org/)
 
