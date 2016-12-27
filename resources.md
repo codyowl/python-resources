@@ -2,6 +2,9 @@
 ## online courses: 
   - Basics    : [python-course.eu](http://www.python-course.eu/)
 
+##Decorators:
+  - [Diving Deep into Decorators](https://code.tutsplus.com/tutorials/deep-dive-into-python-decorators--cms-25629)
+
 ##learning efficiently:
   - [simplydjango](http://www.simplydjango.com/learn-python-efficiently)
 
