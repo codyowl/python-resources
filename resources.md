@@ -102,3 +102,6 @@
 ## Scrapy:
   - [Web scraping and crawling with scrapy and mongodb](https://realpython.com/blog/python/web-scraping-and-crawling-with-scrapy-and-mongodb/)
 
+# Advanced topics:
+## Memory Management:
+  - [Python Memory Management](https://www.youtube.com/watch?v=ADXksMJM78A)
