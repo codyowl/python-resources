@@ -104,4 +104,5 @@
 
 # Advanced topics:
 ## Memory Management:
-  - [Python Memory Management](https://www.youtube.com/watch?v=ADXksMJM78A)
+  - [Python Memory Management(youtube)](https://www.youtube.com/watch?v=ADXksMJM78A)
+  - ["Dude, where's my ram ?" A Deep dive into how python uses memory(youtube)](https://www.youtube.com/watch?v=18TU4S8v_g4)
