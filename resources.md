@@ -88,6 +88,9 @@
 # Cryptography:
   - [cryptography module](http://docs.python-guide.org/en/latest/scenarios/crypto/)
 
+# Distributed systems:
+  - [dispy(module)](http://dispy.sourceforge.net/)
+
 # NLP:
   - [Getting started on NLP with python](http://desilinguist.org/pdf/crossroads.pdf)
 
