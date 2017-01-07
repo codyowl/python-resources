@@ -109,3 +109,9 @@
 ## Memory Management:
   - [Python Memory Management(youtube)](https://www.youtube.com/watch?v=ADXksMJM78A)
   - ["Dude, where's my ram ?" A Deep dive into how python uses memory(youtube)](https://www.youtube.com/watch?v=18TU4S8v_g4)
+
+# Documentations:
+Official python documentation lists:
+## Requests:
+  - [Requests - Http for humans](http://docs.python-requests.org/en/master/)
+
