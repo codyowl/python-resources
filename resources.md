@@ -10,6 +10,8 @@
 
 #Modules:
 [Artificial Intelligence(pyBrain)](http://pybrain.org/)
+[Distributed computing(dispy)](http://dispy.sourceforge.net/)
+[Microservices(nameko)](http://dispy.sourceforge.net/)
 
 # Django : 
 ## login authentication : 
