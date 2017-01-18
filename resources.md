@@ -62,6 +62,7 @@
 # Machine Learning:
   - [Introduction to machine learning in python with scikit-learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
   - [First machine learning project with python](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+  - [Getting started with Machine learning on linux with python3 and scikit-learn](https://techarena51.com/index.php/getting-started-machine-learning-linux-python-3-scikit-learn/?utm_source=fb-django-python-)
 
 # Neural Network:
   - [Develop Your First Neural Network in Python With Keras Step-By-Step](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)  
