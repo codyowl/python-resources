@@ -22,6 +22,10 @@
   - [Blocks](http://blocks.readthedocs.io/en/latest/)
   - [Deepy](http://deepy.readthedocs.io/en/latest/)
   - [pylearn2](http://deeplearning.net/software/pylearn2/)
+  - [neon](http://neon.nervanasys.com/docs/latest/)
+  - [gensim](http://radimrehurek.com/gensim/)
+  - [Chainer](http://chainer.org/)
+  - [Hebel](http://hebel.readthedocs.io/en/latest/)
 
 # Django : 
 ## login authentication : 
