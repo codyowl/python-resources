@@ -12,6 +12,16 @@
 [Artificial Intelligence(pyBrain)](http://pybrain.org/)
 [Distributed computing(dispy)](http://dispy.sourceforge.net/)
 [Microservices(nameko)](https://nameko.readthedocs.io/en/stable/)
+## Deep Learning:
+  - [Theano](http://deeplearning.net/software/theano/)
+  - [TensorFlow](https://www.tensorflow.org/)
+  - [Lasagne](http://lasagne.readthedocs.io/en/latest/)
+  - [Keras](https://keras.io/)
+  - [Mxnet](http://mxnet.io/)
+  - [Sklearn-theano](http://sklearn-theano.github.io/)
+  - [Blocks](http://blocks.readthedocs.io/en/latest/)
+  - [Deepy](http://deepy.readthedocs.io/en/latest/)
+  - [pylearn2](http://deeplearning.net/software/pylearn2/)
 
 # Django : 
 ## login authentication : 
