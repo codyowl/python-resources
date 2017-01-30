@@ -26,6 +26,7 @@
   - [gensim](http://radimrehurek.com/gensim/)
   - [Chainer](http://chainer.org/)
   - [Hebel](http://hebel.readthedocs.io/en/latest/)
+  - [nolearn](https://pythonhosted.org/nolearn/)
 
 # Django : 
 ## login authentication : 
