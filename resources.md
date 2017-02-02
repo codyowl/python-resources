@@ -111,7 +111,7 @@
 
 # NLP:
   - [Getting started on NLP with python](http://desilinguist.org/pdf/crossroads.pdf)
-
+  - [Natural Language Processing for programmers](https://worldwritable.com/natural-language-processing-for-programmers-c21a4aff3cb9#.lw0ea1i3n)
 # Deployment:
 ## Heroku:
   - [How to set django app on heroku](http://www.marinamele.com/2013/12/how-to-set-django-app-on-heroku-part-i.html)  
