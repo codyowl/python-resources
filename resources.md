@@ -8,26 +8,6 @@
 ##learning efficiently:
   - [simplydjango](http://www.simplydjango.com/learn-python-efficiently)
 
-#Modules:
-[Artificial Intelligence(pyBrain)](http://pybrain.org/)
-[Distributed computing(dispy)](http://dispy.sourceforge.net/)
-[Microservices(nameko)](https://nameko.readthedocs.io/en/stable/)
-## Deep Learning:
-  - [Theano](http://deeplearning.net/software/theano/)
-  - [TensorFlow](https://www.tensorflow.org/)
-  - [Lasagne](http://lasagne.readthedocs.io/en/latest/)
-  - [Keras](https://keras.io/)
-  - [Mxnet](http://mxnet.io/)
-  - [Sklearn-theano](http://sklearn-theano.github.io/)
-  - [Blocks](http://blocks.readthedocs.io/en/latest/)
-  - [Deepy](http://deepy.readthedocs.io/en/latest/)
-  - [pylearn2](http://deeplearning.net/software/pylearn2/)
-  - [neon](http://neon.nervanasys.com/docs/latest/)
-  - [gensim](http://radimrehurek.com/gensim/)
-  - [Chainer](http://chainer.org/)
-  - [Hebel](http://hebel.readthedocs.io/en/latest/)
-  - [nolearn](https://pythonhosted.org/nolearn/)
-
 # Django : 
 ## login authentication : 
   - [Django authentication rightway](http://blog.narenarya.in/right-way-django-authentication.html)
@@ -112,7 +92,9 @@
 # NLP:
   - [Getting started on NLP with python](http://desilinguist.org/pdf/crossroads.pdf)
   - [Natural Language Processing for programmers](https://worldwritable.com/natural-language-processing-for-programmers-c21a4aff3cb9#.lw0ea1i3n)
+
 # Deployment:
+
 ## Heroku:
   - [How to set django app on heroku](http://www.marinamele.com/2013/12/how-to-set-django-app-on-heroku-part-i.html)  
 
@@ -133,3 +115,30 @@ Official python documentation lists:
 ## Requests:
   - [Requests - Http for humans](http://docs.python-requests.org/en/master/)
 
+
+#Modules/Libraries:
+
+## Artificial Intelligence:
+  - [pyBrain](http://pybrain.org/)
+
+## Distributed computing:
+  - [Dispy](http://dispy.sourceforge.net/)
+
+## Microservices:
+  - [nameko](https://nameko.readthedocs.io/en/stable/)  
+
+## Deep Learning:
+  - [Theano](http://deeplearning.net/software/theano/)
+  - [TensorFlow](https://www.tensorflow.org/)
+  - [Lasagne](http://lasagne.readthedocs.io/en/latest/)
+  - [Keras](https://keras.io/)
+  - [Mxnet](http://mxnet.io/)
+  - [Sklearn-theano](http://sklearn-theano.github.io/)
+  - [Blocks](http://blocks.readthedocs.io/en/latest/)
+  - [Deepy](http://deepy.readthedocs.io/en/latest/)
+  - [pylearn2](http://deeplearning.net/software/pylearn2/)
+  - [neon](http://neon.nervanasys.com/docs/latest/)
+  - [gensim](http://radimrehurek.com/gensim/)
+  - [Chainer](http://chainer.org/)
+  - [Hebel](http://hebel.readthedocs.io/en/latest/)
+  - [nolearn](https://pythonhosted.org/nolearn/)
