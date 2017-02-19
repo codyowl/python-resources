@@ -43,6 +43,7 @@
 -----------
 
   - [Building rest api with python](https://realpython.com/blog/python/api-integration-in-python/)
+  - [Designing a restful api with Flask](https://www.cs.utexas.edu/~cannata/networking/Class%20Notes/07%20Designing%20a%20RESTful%20API%20with%20Python%20and%20Flask%20-%20miguelgrinberg.pdf)
 
 ## Django rest framework:
 
